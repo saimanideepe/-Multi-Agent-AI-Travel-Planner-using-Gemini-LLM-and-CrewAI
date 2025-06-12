@@ -2,11 +2,11 @@
 
 An agentic AI travel planning application using Gemini LLM and CrewAI framework. This project demonstrates how AI agents collaborate to streamline the travel planning process - retrieving real-time flight and hotel data, analyzing options, and generating personalized itineraries.
 
-![Travel Planner Demo](images/travelplanner.webp)
+![Travel Planner Demo](travelplanner.webp)
 
 ## Demo
 
-![Travel Planner in Action](images/travelplanner-demo.gif)
+![Travel Planner in Action](travelplanner-demo.gif)
 
 ## Overview
 
@@ -184,6 +184,3 @@ The application follows a modular architecture:
    - Real-time data display with filtering options
    - Downloadable itinerary generation
 
-## Repository
-
-This code is available on GitHub at [arjunprabhulal/gemini-crewai-travelplanner].
