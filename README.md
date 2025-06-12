@@ -51,10 +51,6 @@ The system leverages:
 - Interactive tabs for viewing flights, hotels, and AI recommendations
 - Downloadable formatted itinerary
 
-## Based On
-
-This project is based on the article: [Agentic AI: Building a Multi-Agent AI Travel Planner using Gemini LLM & Crew AI](https://medium.com/google-cloud/agentic-ai-building-a-multi-agent-ai-travel-planner-using-gemini-llm-crew-ai-6d2e93f72008)
-
 ## Installation
 
 ### Prerequisites
